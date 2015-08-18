@@ -1,5 +1,9 @@
-Facebook Posts Embedded
+Facebook Posts Embedded LaborHerald Fork
 ===================================================
+
+This is a simple fork with a specific embed wrapper for www.laborherald.com.au
+
+##Original README content below:
 
 Overview
 ----
